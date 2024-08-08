@@ -13,3 +13,7 @@ Tic-tac-toe is a simple project that implements state machines using XState tech
 - `npm run build` - build production version
 - `npm run preview` - starting application in production mode
 - `npm run test` - run all tests
+
+# Main view in app
+
+![View](public/main_view_app.png)
